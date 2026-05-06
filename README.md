@@ -1,5 +1,5 @@
 <h2 align="center">Guilherme Carrijo</h2>
-<p align="center">Desenvolvedor Full-Stack → Gameplay Programmer &nbsp;|&nbsp; Rio de Janeiro</p>
+<p align="center">Desenvolvedor Full-Stack → Programador de Jogos &nbsp;
 
 <p align="center">
   <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -8,12 +8,6 @@
 </p>
 
 ---
-
-<div align="center">
-
-![Profile views](https://komarev.com/ghpvc/?username=oGuilhotina&color=00d4aa&style=flat-square&label=visitas+ao+perfil)
-
-</div>
 
 ---
 

@@ -1,5 +1,6 @@
 <h2 align="center">Guilherme Carrijo</h2>
-<p align="center">Desenvolvedor Full-Stack → Programador de Jogos &nbsp;
+<p align="center">Desenvolvedor Full-Stack → Gameplay Programmer &nbsp;|&nbsp; Rio de Janeiro</p>
+
 <p align="center">
   <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:carrijoguigui@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -9,16 +10,9 @@
 ---
 
 <div align="center">
-  <table border="0" cellspacing="0" cellpadding="0">
-    <tr>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api?username=guilherme-carrijo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&rank_icon=letter" alt="GitHub Stats"/>
-      </td>
-      <td>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-carrijo&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Languages"/>
-      </td>
-    </tr>
-  </table>
+
+![Profile views](https://komarev.com/ghpvc/?username=oGuilhotina&color=00d4aa&style=flat-square&label=visitas+ao+perfil)
+
 </div>
 
 ---

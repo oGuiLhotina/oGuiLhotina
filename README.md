@@ -10,9 +10,16 @@
 ---
 
 <div align="center">
-
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=guilherme-carrijo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&rank_icon=letter)](https://github.com/guilherme-carrijo)&nbsp;&nbsp;[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-carrijo&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9)](https://github.com/guilherme-carrijo)
-
+  <table border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=guilherme-carrijo&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9&rank_icon=letter" alt="GitHub Stats"/>
+      </td>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilherme-carrijo&layout=donut&theme=dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" alt="Top Languages"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---

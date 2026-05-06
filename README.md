@@ -1,6 +1,5 @@
 <h2 align="center">Guilherme Carrijo</h2>
-<p align="center">Desenvolvedor Full-Stack → Gameplay Programmer &nbsp;|&nbsp; Rio de Janeiro</p>
-
+<p align="center">Desenvolvedor Full-Stack → Gameplay Programmer &nbsp;
 <p align="center">
   <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:carrijoguigui@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>

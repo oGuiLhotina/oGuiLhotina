@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4aa&height=170&section=header&text=Guilherme%20Carrijo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%86%92%20Gameplay%20Programmer&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4aa&height=170&section=header&text=Guilherme%20Carrijo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%86%92%20Game%20Dev&descAlignY=58&descSize=16" width="100%"/>
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=00D4AA&center=true&vCenter=true&width=580&lines=Construindo+produtos+com+Vue%2C+Quasar+e+TypeScript;Migrando+para+Godot+%2B+Unreal+Engine+5;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%93+PUC+Goi%C3%A1s" alt="Typing SVG" /></a>
 
@@ -15,7 +15,7 @@
 ## Sobre
 
 Full-stack developer desde 2022, hoje em transição para desenvolvimento de jogos.
-No dia a dia construo produtos com Vue, Quasar e Laravel; nas horas de estudo é Godot e Unreal Engine 5, rumo a Gameplay Programmer.
+No dia a dia construo produtos com Vue e Quasar; nas horas de estudo é Godot e Unreal Engine 5, rumo a Game Dev.
 Cursando Engenharia da Computação na PUC Goiás.
 
 ## Projetos em destaque
@@ -58,7 +58,7 @@ Cursando Engenharia da Computação na PUC Goiás.
 
 ## Contato
 
-Aberto a oportunidades em gameplay programming e desenvolvimento full-stack.
+Aberto a oportunidades em game dev e desenvolvimento full-stack.
 
 <p>
   <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>

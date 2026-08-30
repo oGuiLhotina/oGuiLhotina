@@ -14,8 +14,8 @@
 
 ## Sobre
 
-Full-stack developer desde 2022, hoje em transição para desenvolvimento de jogos.
-No dia a dia construo produtos com Vue e Quasar; nas horas de estudo é Godot e Unreal Engine 5, rumo a Game Dev.
+Full-stack developer desde 2022, e estudando para desenvolvimento de jogos.
+No dia a dia construo produtos com Vue e Quasar no front-end e back-end com typescript, javascript, python e banco de dados; nas horas de estudo, além da base de software, também estudo Godot e Unreal Engine 5.
 Cursando Engenharia da Computação na PUC Goiás.
 
 ## Projetos em destaque

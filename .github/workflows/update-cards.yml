@@ -19,7 +19,7 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: stats
-          options: username=oGuiLhotina&show_icons=true&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9
+          options: username=oGuiLhotina&show_icons=true&hide_border=true&bg_color=0d0208&title_color=39ff14&icon_color=39ff14&text_color=00ff41
           path: profile/stats.svg
           token: ${{ secrets.GITHUB_TOKEN }}
 
@@ -27,9 +27,17 @@ jobs:
         uses: stats-organization/github-readme-stats-action@v2
         with:
           card: top-langs
-          options: username=oGuiLhotina&layout=compact&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9
+          options: username=oGuiLhotina&layout=compact&hide_border=true&bg_color=0d0208&title_color=39ff14&text_color=00ff41
           path: profile/top-langs.svg
           token: ${{ secrets.GITHUB_TOKEN }}
+
+      - name: Generate contribution snake
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: oGuiLhotina
+          outputs: |
+            profile/snake.svg?color_snake=39ff14&color_dots=0d0208,0a3d1f,146b2e,1fa93f,39ff14
+            profile/snake-light.svg?color_snake=1a7f37&color_dots=ebedf0,9be9a8,40c463,30a14e,216e39
 
       - name: Commit cards
         run: |

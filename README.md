@@ -1,22 +1,30 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4aa&height=170&section=header&text=Guilherme%20Carrijo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%86%92%20Game%20Dev&descAlignY=58&descSize=16" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:000000,100:0d0208&height=170&section=header&text=oGuiLhotina&fontSize=42&fontColor=39ff14&animation=fadeIn&fontAlignY=38&desc=root%40github%3A~%23%20system.load_profile()&descAlignY=62&descSize=15&descColor=00ff41" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=00D4AA&center=true&vCenter=true&width=580&lines=Construindo+produtos+com+Vue%2C+Quasar+e+TypeScript;Migrando+para+Godot+%2B+Unreal+Engine+5;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%93+PUC+Goi%C3%A1s" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&pause=1400&color=39FF14&center=true&vCenter=true&width=600&lines=full-stack+dev+desde+2022;migrando+para+game+dev+%28Godot+%2B+UE5%29;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%93+PUC+Goi%C3%A1s" alt="Typing SVG" /></a>
 
 <p>
-  <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:carrijoguigui@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://guilherme-carrijo.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00d4aa?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14"/></a>
+  <a href="mailto:carrijoguigui@gmail.com"><img src="https://img.shields.io/badge/Gmail-000000?style=for-the-badge&logo=gmail&logoColor=39ff14"/></a>
+  <a href="https://guilherme-carrijo.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-000000?style=for-the-badge&logo=vercel&logoColor=39ff14"/></a>
 </p>
 
 </div>
 
-## Sobre
+```bash
+$ whoami
+guilherme carrijo — full-stack dev desde 2022, estudando pra virar game dev
 
-Full-stack developer desde 2022, e estudando para desenvolvimento de jogos.
-No dia a dia construo produtos com Vue e Quasar no front-end e back-end com typescript, javascript, python e banco de dados; nas horas de estudo, além da base de software, também estudo Godot e Unreal Engine 5.
-Cursando Engenharia da Computação na PUC Goiás.
+$ stack --current
+vue, quasar, typescript, javascript, python, sql
+
+$ stack --learning
+godot, unreal engine 5
+
+$ education
+engenharia da computação, puc goiás
+```
 
 ## Projetos em destaque
 
@@ -32,6 +40,12 @@ Cursando Engenharia da Computação na PUC Goiás.
 <img src="./profile/stats.svg" height="165"/>
 <img src="./profile/top-langs.svg" height="165"/>
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="./profile/snake.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="./profile/snake-light.svg" />
+  <img alt="contribution snake" src="./profile/snake.svg" width="100%"/>
+</picture>
+
 </div>
 
 ## Stack
@@ -42,25 +56,29 @@ Cursando Engenharia da Computação na PUC Goiás.
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white)
 ![Quasar](https://img.shields.io/badge/Quasar-1976D2?style=flat-square&logo=quasar&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![REST API](https://img.shields.io/badge/REST_APIs-00d4aa?style=flat-square&logoColor=white)
+![REST API](https://img.shields.io/badge/REST_APIs-39ff14?style=flat-square&logoColor=black)
 
 **Aprendendo**
 ![Godot](https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godotengine&logoColor=white)
 ![Unreal Engine](https://img.shields.io/badge/Unreal_Engine_5-0E1128?style=flat-square&logo=unrealengine&logoColor=white)
 ![Blueprints](https://img.shields.io/badge/Blueprints-0E1128?style=flat-square&logo=unrealengine&logoColor=7c3aed)
 ![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-00d4aa?style=flat-square&logoColor=white)
+![Algorithm Design](https://img.shields.io/badge/Algorithm_Design-39ff14?style=flat-square&logoColor=black)
 
 ## Contato
 
-Aberto a oportunidades em game dev e desenvolvimento full-stack.
+```bash
+$ contact --open
+aberto a oportunidades em game dev e desenvolvimento full-stack
+```
 
 <p>
-  <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="mailto:carrijoguigui@gmail.com"><img src="https://img.shields.io/badge/Me%20chame-Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/Vamos%20conversar-LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=39ff14"/></a>
+  <a href="mailto:carrijoguigui@gmail.com"><img src="https://img.shields.io/badge/Me%20chame-Email-000000?style=for-the-badge&logo=gmail&logoColor=39ff14"/></a>
 </p>

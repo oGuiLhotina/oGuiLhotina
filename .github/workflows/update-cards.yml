@@ -36,8 +36,8 @@ jobs:
         with:
           github_user_name: oGuiLhotina
           outputs: |
-            profile/snake.svg?color_snake=39ff14&color_dots=0d0208,0a3d1f,146b2e,1fa93f,39ff14
-            profile/snake-light.svg?color_snake=1a7f37&color_dots=ebedf0,9be9a8,40c463,30a14e,216e39
+            profile/snake.svg?color_snake=%2339ff14&color_dots=%230d0208,%230a3d1f,%23146b2e,%231fa93f,%2339ff14
+            profile/snake-light.svg?color_snake=%231a7f37&color_dots=%23ebedf0,%239be9a8,%2340c463,%2330a14e,%23216e39
 
       - name: Commit cards
         run: |

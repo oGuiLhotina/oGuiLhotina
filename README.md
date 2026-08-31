@@ -29,8 +29,8 @@ Cursando Engenharia da Computação na PUC Goiás.
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=oGuiLhotina&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=00d4aa&text_color=c9d1d9" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=oGuiLhotina&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9" height="165"/>
+<img src="./profile/stats.svg" height="165"/>
+<img src="./profile/top-langs.svg" height="165"/>
 
 </div>
 

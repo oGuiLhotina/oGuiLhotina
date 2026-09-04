@@ -2,7 +2,7 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:00d4aa&height=170&section=header&text=Guilherme%20Carrijo&fontSize=38&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full-Stack%20Developer%20%E2%86%92%20Game%20Dev&descAlignY=58&descSize=16" width="100%"/>
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=00D4AA&center=true&vCenter=true&width=580&lines=Construindo+produtos+com+Vue%2C+Quasar+e+TypeScript;Migrando+para+Godot+%2B+Unreal+Engine+5;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%93+PUC+Goi%C3%A1s" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=18&pause=1400&color=00D4AA&center=true&vCenter=true&width=580&lines=Construindo+produtos+com+Vue%2C+Quasar+e+TypeScript;Aprendendo+Godot+%2B+Unreal+Engine+5;Engenharia+da+Computa%C3%A7%C3%A3o+%E2%80%93+PUC+Goi%C3%A1s" alt="Typing SVG" /></a>
 
 <p>
   <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
@@ -38,10 +38,10 @@
 
 ```bash
 $ whoami
-guilherme carrijo — full-stack dev desde 2022, estudando pra virar game dev
+guilherme carrijo — full-stack dev desde 2022, estudando sobre desenvolvimento de jogos
 
 $ stack --current
-vue, quasar, typescript, javascript, python, sql
+vue, quasar, typescript, javascript, python, sql, C e C++
 
 $ stack --learning
 godot, unreal engine 5

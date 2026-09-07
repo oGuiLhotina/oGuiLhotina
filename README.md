@@ -7,7 +7,7 @@
 <p>
   <a href="https://linkedin.com/in/guilherme-carrijo"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="mailto:carrijoguigui@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href="https://guilherme-carrijo.dev"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00d4aa?style=for-the-badge&logo=vercel&logoColor=black"/></a>
+  <a href="https://guilhermecarrijo.com"><img src="https://img.shields.io/badge/Portf%C3%B3lio-00d4aa?style=for-the-badge&logo=vercel&logoColor=black"/></a>
 </p>
 
 </div>
